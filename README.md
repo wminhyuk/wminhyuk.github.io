@@ -4,8 +4,10 @@
 <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSzdREgTNnlP6Bo7iXtMIhUHOygOEk1c0nYiQ&s" alt="team sunsin" style="width:600px;"/>
 
 ### Connecting
-- PRD - https://team.sunsin.shop
+- PRD - https://team.sunsin.shop, https://wminhyuk.github.io/
 - STG - https://team-sunsin.web.app
+- DEV - 
+- LOCAL - https://localhost8000
 
 ### Contribute guide
 - Anyone can do it's possible. Let's send the PR first and make it a better team by joining.
@@ -74,7 +76,8 @@ https://oss-cashmallow.web.app
 
 2. PRD
 - github pages -> docs
-- sh prd-build.sh -> push -> pr merge -> deploy - end
+- pnpm docs:build
+- firebase login
 - https://oss.cashmallow.com
 
 <img src="https://user-images.githubusercontent.com/120996497/212484360-1b212db0-5a5c-449f-8cc2-35de2126bd66.png" alt="cashmallow" style="width:600px;"/>
