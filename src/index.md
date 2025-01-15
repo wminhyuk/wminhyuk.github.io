@@ -1,13 +1,13 @@
 ---
 home: true
 
-heroImage: /images/hero.png
-heroImageDark: /images/hero.png
+heroImage: /images/hero.webp
+heroImageDark: /images/ninja-turtles.png
 
-heroText: 'tech blog@cashmallow'
-title: tech blog
+heroText: 'team blog@sunsin.shop'
+title: team.sunsin
 
-tagline: cashmallow dev team's technology blog about wanting to contribute to the open source ecosystem
+tagline: We are a professional team that works affectionately, and above all, grows with our colleagues.
 
 actions:
   - text: tech SHARE
