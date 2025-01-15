@@ -1,8 +1,8 @@
 ---
 home: true
 
-heroImage: /images/hero.webp
-heroImageDark: /images/ninja-turtles.png
+heroImage: /images/curry_light.webp
+heroImageDark: /images/curry_dark1.jfif
 
 heroText: 'team blog@sunsin.shop'
 title: team.sunsin
