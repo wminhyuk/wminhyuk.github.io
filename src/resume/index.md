@@ -1,8 +1,9 @@
 
-<br> <img style="float:right;border-radius:50%;width:70px;padding:6px" src="/images/curry_light.webp" />
+<img style="float:right;border-radius:50%;width:70px;padding:6px" src="/images/curry_light.webp" />
+
 
 <span style="float:right;padding:6px"> 
- <br> someone@email.com <br> mobile: +852 xxxxxxxx <br> Nationality: Korea
+ someone@email.com <br> mobile: +852 xxxxxxxx <br> Nationality: Korea
 </span>
 
 # Casualwriter  
