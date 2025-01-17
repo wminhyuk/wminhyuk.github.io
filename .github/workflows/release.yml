@@ -1,9 +1,6 @@
-name: Deploy team.sunsin.shop with GitHub Pages
+name: Deploy on published release with GitHub Pages
 
 on:
-  # Runs on pushes targeting the default branch
-  # push:
-  #   branches: ["release"]
   release:
     types: [published]
 
@@ -35,7 +32,7 @@ jobs:
         run: npm install
       - name: Build Docs
         run: npm run docs:build
-      - name: COPY Files
+      - name: CP Files
         run: sh cp-files.sh
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
@@ -48,4 +45,4 @@ jobs:
     needs: build
     steps:
       - name: Deploy to GitHub Pages
-        uses: actions/deploy-pages
+        uses: actions/deploy-pages@v4
