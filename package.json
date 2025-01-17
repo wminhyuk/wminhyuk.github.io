@@ -1,7 +1,7 @@
 {
 
   "name": "https://seo-sigma.shop/",
-  "version": "0.2.1",
+  "version": "0.2.2",
   "description": "My page",
   "main": "index.js",
   "scripts": {
