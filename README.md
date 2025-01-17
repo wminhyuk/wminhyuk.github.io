@@ -1,4 +1,4 @@
-# tem blog@sunsin.shop
+# wminhyuk's Blog
 - Our team's technology blog inherits the spirit of Admiral Yi Sun-sin of Joseon
   
 <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSzdREgTNnlP6Bo7iXtMIhUHOygOEk1c0nYiQ&s" alt="team sunsin" style="width:600px;"/>
