@@ -1,7 +1,7 @@
 {
-  "name": "https://seo-sigma.shop/",
-  "version": "0.2",
-  "description": "My page",
+  "name": "https://wminhyuk.github.io/",
+  "version": "25.1.18",
+  "description": "cashmallow dev team's technology blog about wanting to contribute to the open source ecosystem",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
