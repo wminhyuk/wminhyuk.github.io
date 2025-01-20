@@ -5,7 +5,7 @@ heroImage: /images/curry_light.webp
 heroImageDark: /images/curry_dark1.jfif
 
 heroText: 'team blog@seo-sigma.shop'
-title: team.seo-sigma
+title: team.seo
 
 tagline: We are a professional team that works affectionately, and above all, grows with our colleagues.
 
