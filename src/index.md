@@ -4,8 +4,8 @@ home: true
 heroImage: /images/curry_light.webp
 heroImageDark: /images/curry_dark1.jfif
 
-heroText: 'team blog@sunsin.shop'
-title: team.sunsin
+heroText: 'team blog@seo-sigma.shop'
+title: team.seo-sigma
 
 tagline: We are a professional team that works affectionately, and above all, grows with our colleagues.
 

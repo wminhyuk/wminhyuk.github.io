@@ -3,17 +3,14 @@
 
 
 <span style="float:right;padding:6px"> 
-<br> someone@email.com <br> mobile: +852 xxxxxxxx <br> Nationality: Korea
+<br> seoseo1998@gmail.com <br> mobile: 010-2431-6068 <br> Nationality: Korea
 </span>
 
 # Casualwriter  
 
 ## Executive Summary
 
-* 10 years project/team management experience
-* PMP, OCP, AWS Certification
-* Hand-on experience in oracle database
-* Proficient in JavaScript, Java, Powerbuilder
+* Integrating mechanical engineering and data analysis to drive innovation.
 
 ## Working Experience
 

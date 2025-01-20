@@ -9,7 +9,7 @@ export default defineUserConfig({
   
   lang: 'en-US',
 
-  title: 'team SUNSIN',
+  title: 'team SEO',
   description: "We are a professional team that works affectionately, and above all, grows with our colleagues.",
 
   head: [
@@ -81,8 +81,8 @@ export default defineUserConfig({
     colorModeSwitch: true,
 
     navbar: [
-      { text: "cashmallow", link: "https://www.cashmallow.com" },
-      { text: "recruit", link: "/team/recruit/" },
+      { text: "github", link: "https://github.com/wminhyuk" },
+      { text: "resume", link: "/resume" },
     ],
 
     sidebar: {
