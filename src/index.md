@@ -7,7 +7,7 @@ heroImageDark: /images/curry_dark1.jfif
 heroText: 'team blog@seo-sigma.shop'
 title: team.seo
 
-tagline: We are a professional team that works affectionately, and above all, grows with our colleagues.
+tagline: wminhyuk의 블로그
 
 actions:
   - text: GITHUB
