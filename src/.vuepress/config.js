@@ -10,7 +10,7 @@ export default defineUserConfig({
   lang: 'en-US',
 
   title: 'team SEO',
-  description: "We are a professional team that works affectionately, and above all, grows with our colleagues.",
+  description: "wminhyuk의 블로그",
 
   head: [
     ['meta', { property: 'og:type', content: 'website' }],
